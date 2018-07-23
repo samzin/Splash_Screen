@@ -50,7 +50,6 @@ public class CollegeRegistration extends Fragment
                         ,"27",editCollegePassword.getText().toString(),"2",
                         editCollege.getText().toString());
 
-                Toast.makeText(getActivity(), "Entered !!!", Toast.LENGTH_SHORT).show();
             }
         });
 
